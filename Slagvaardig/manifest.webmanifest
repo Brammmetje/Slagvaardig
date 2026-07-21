@@ -1,9 +1,0 @@
-{
-  "name": "Golf Oefenapp",
-  "short_name": "Golf",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#1F3D2B",
-  "theme_color": "#1F3D2B",
-  "icons": [{ "src": "icoon.svg", "sizes": "any", "type": "image/svg+xml" }]
-}
