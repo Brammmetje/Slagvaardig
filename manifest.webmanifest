@@ -1,6 +1,6 @@
 {
-  "name": "Golf Oefenapp",
-  "short_name": "Golf",
+  "name": "Slagvaardig",
+  "short_name": "Slagvaardig",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#1F3D2B",
