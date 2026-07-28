@@ -3,7 +3,7 @@
 // Cache dient alleen als offline-terugval (handig op de baan zonder bereik).
 // Verhoog VERSION bij elke nieuwe versie (gelijk aan APP_VERSION in index.html).
 
-const VERSION = "16";
+const VERSION = "17";
 const CACHE = "slagvaardig-v" + VERSION;
 
 self.addEventListener("install", (event) => {
